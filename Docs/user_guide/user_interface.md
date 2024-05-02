@@ -94,6 +94,8 @@ For volumes, display options include:
 
 ### View Cross-Reference
 
+To show the Cross-Reference line of the current image, press the Cross-reference button![2024-05-02_202444](https://github.com/Slicer/Slicer/assets/103493244/34e94346-5c3a-4b44-8e24-643ecb3a6a51)
+. Pressing the sideway arrow tab will give you the option to activate the interactive Cross-reference line function.
 Holding down the `Shift` key while moving the mouse in any slice or 3D view will cause the Crosshair to move to the selected position in all views. By default, when the Crosshair is moved in any views, all slice views are scrolled to the same RAS position indexed by the mouse. This feature is useful when inspecting.
 
 To show/hide the Crosshair position, click crosshair icon
